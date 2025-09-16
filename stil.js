@@ -1,6 +1,6 @@
 // Burada doğru şifreyi ve yönlendirilecek URL'i belirleyin
 const CORRECT_PASSWORD = '10.03'; // <--- burayı istediğiniz şifre ile değiştirin
-const REDIRECT_URL = 'site1.html'; // <--- doğruysa yönlendirilecek adresi buraya yazın
+const REDIRECT_URL = 'site.html'; // <--- doğruysa yönlendirilecek adresi buraya yazın
 
 const passInput = document.getElementById('password');
 const checkBtn = document.getElementById('check');
